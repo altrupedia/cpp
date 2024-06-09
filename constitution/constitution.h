@@ -1,6 +1,44 @@
+// This file serves as main document for developing a altrupedia.space constitution 
 /*
-This file serves as main document for developing a altrupedia.space constitution  
+// first I thought, Ill put it in altrupedia/docs/outreach/blabla.md but then I reconsidered and moved it to the constitution. 
+// I'm not prepending 'altrupedia/code/backend/cpp/constitution/')' on purpose,
+because I will move altrupedias constitution into its own constitution repository, 
+living in 'altrupedia/code/'s root code directory.
 
+## A  
+# GUIDELINES AND CONCEPTS IN ALTRUPEDIA
+
+1. Altrupedia is open to anybody. 
+
+2. But because Altrupedia is open, means, that you need to be open too. 
+
+3. Don't worry, by open, I don't mean, that you need to share your real name, or any else intrinsic piece of information, that one could relate with you. 
+
+4. All you need to show from the beginning, is, that you are an existing human being associated with earth.
+
+5. There will be many easy fast low-threshold options to proove your existence, 
+from which you can pick.
+
+6. As in real life, those that are more open about themselves (at least to some persons)), usually  find it easier to get support when they need it.
+
+77. Don’t judge before you understand. 
+So never. Except a handfull instances in life. 
+Finite, discrete, they contribute   N O T H I N G   in your personal life path-integregal.
+
+88. Visionstatement:
+Go back to a state where all tasks that need to be done for the survival of almost any individuel, of the tribe, are done by the collective.
+
+9. Or, in technical terms, are fed onto a central, priority ordered stack, in which any task lives  where it should. Priority will be a projection from many dimensions.
+
+100. Everybody who feels like doing sth for the others, picks a task from that stack, carries it out (with collective support)), and will receive credit for it.
+
+101. Credits, that weigh pure physical seconds s. 
+102. All seconds are equal, no matter BY WHOM and WHAT they are spent on.
+*/
+
+## B
+# A X I O M S
+/*
 Axioms:
 -> AI shall only be used for easy, clearly scoped assistance tasks. We won't use AI to analyze any data
 -> don’t want to overstrain the current human mind set. 
@@ -28,6 +66,7 @@ Altruist State:
 - could be an interesting Jugend forscht or bachelelor thesis multidimensional data analysis topic: 
   Come up a good approximative description of the underlying dimensionality reduction mechanism, without knowing it
 */
+
 # pragma once
 #include <set>
 #include <string>
