@@ -36,7 +36,17 @@ Go back to a state where all tasks that need to be done for the survival of almo
 102. All seconds are equal, no matter BY WHOM and WHAT they are spent on.
 */
 
-## B
+# B
+AMENDMENTS
+1. EVERYBODY STARTS OFF WITH ONE CHANCE
+
+2. IF YOU'RE AN ADULT, YOU GET ONE FREE PASS.
+
+3. IF YOU'RE A CHILD, YOU GET TWO FREE PASSES.
+
+3. // suggestions?
+
+## C
 # A X I O M S
 /*
 Axioms:
