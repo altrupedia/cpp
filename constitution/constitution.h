@@ -52,11 +52,6 @@ AMENDMENTS
 # A X I O M S
 /*
 Axioms:
--> AI shall only be used for easy, clearly scoped assistance tasks. We won't use AI to analyze any data
--> don’t want to overstrain the current human mind set. 
--> we struggle already
--> Crazy, unexpected correlations could endanger other, positive developments (emancipation, gender in language, etc)
--> discover connections and correlations in the data only at the level, to which human brains come up with on their own
 -> any analysis of data will require special clearance from a comitee (some legislative parlament) 
 -> with clearance criteria defined in altrupedia/code/backend/c++/constitution/
 -> commit privileges to  altrupedia/code/backend/c++/constitution/ will be in hands somewhere in altrupedia/code/backend/c++/constitution/executive
