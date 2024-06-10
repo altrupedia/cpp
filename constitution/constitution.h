@@ -44,7 +44,9 @@ AMENDMENTS
 
 3. IF YOU'RE A CHILD, YOU GET TWO FREE PASSES.
 
-3. // suggestions?
+3. NO AI SHALL EVER BE INTRUDED INTO ALTRUPWDIA.
+  
+4. // suggestions?
 
 ## C
 # A X I O M S
