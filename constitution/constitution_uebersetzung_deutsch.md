@@ -1,4 +1,5 @@
-RICHTLINIEN UND KONZEPTE IN ALTRUPEDIA
+##A 
+#RICHTLINIEN UND KONZEPTE IN ALTRUPEDIA
 
 1. Altrupedia ist für jede:n offen. 
 2. Weil altrupedia offen ist, müssen auch ihre User – also DU – offen sein. 
