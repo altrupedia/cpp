@@ -7,7 +7,7 @@ namespace altrupedia_constitution
 int 
 S_commands::Execute(std::string const &theCommand)
 {
-    if (altrupedia_constitution::S_Door::Bounces(theCommand))
+    if (altrupedia_constitution::S_DOOR::BOUNCES(theCommand))
     {
         printf("S_commands::Execute: WARNING: %s is NOT conform.\nReturning 1.\n", 
                theCommand.c_str());
@@ -50,9 +50,9 @@ S_commands::executeDeleteUser()
     return 0;
 }  
 
-// ==================== S_Door public methods ====================
+// ==================== S_DOOR public methods ====================
 int 
-S_Door::Bounces(std::string const &theRequest) 
+S_DOOR::BOUNCES(std::string const &theRequest) 
 {
     if (theRequest == "kRegisterUser") return 0;
     if (theRequest == "kDeleteUser") return 0;

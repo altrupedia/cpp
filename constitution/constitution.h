@@ -99,9 +99,9 @@ class S_commands {
     static int executeDeleteUser();
 };
 
-class S_Door {
+class S_DOOR {
   public:
-    static int Bounces(std::string const &theRequest); 
+    static int BOUNCES(std::string const &theRequest); 
   private:
 };
 
